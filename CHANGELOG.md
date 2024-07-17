@@ -1,3 +1,12 @@
+##### v3.5.0
+###### Unreleased
+
+* Tweak display of miner "notes" (disclaimer for Patoshi)
+* Fix for display of JSON-data content
+* Updated miner IDs (including removal of 3 probably false positives from the "Patoshi" list)
+* Updated dependencies
+
+
 ##### v3.4.0
 ###### 2023-06-14
 

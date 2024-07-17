@@ -285,7 +285,7 @@ module.exports = {
 			// 40
 			text: "No one has found the bottom of the Bitcoin rabbit hole.",
 			speaker: "Jameson Lopp",
-			date: "2010-11-10",
+			date: "2018-11-10",
 			url: "https://twitter.com/lopp/status/1061415918616698881"
 		},
 		{
@@ -623,6 +623,105 @@ module.exports = {
 			url: "https://thebitcoinlayer.substack.com/p/bitcoin-is-swallowing-the-world",
 			date: "2023-04-27"
 		},
+		{
+			// 88
+			text: "You can't stop Bitcoin. It's like trying to stop Gunpowder.",
+			speaker: "John McAfee",
+			url: "https://twitter.com/pete_rizzo_/status/1698663357140631674?s=20",
+			date: "2014-09-08"
+		},
+		{
+			// 89
+			text: "BTC is like a game of musical chairs, except you can sit down before the music stops if you want. And many of us sat down a long time ago.",
+			speaker: "https://twitter.com/stackhodler",
+			url: "https://x.com/BenJustman/status/1715366852623241628",
+			date: "2023-10-20"
+		},
+		{
+			// 90
+			text: "I'll be buying at the top forever.",
+			speaker: "Michael Saylor",
+			url: "https://x.com/ronin21btc/status/1715980793850294641",
+			date: "2023-10-22"
+		},
+		{
+			// 91
+			text: "Money is a long story and #Bitcoin is the last chapter.",
+			speaker: "Robert Breedlove",
+			url: "https://x.com/TheBitcoinConf/status/1719772123101794765",
+			date: "2023-11-01"
+		},
+		{
+			// 92
+			text: "Bitcoin is simply a technology that, if adopted, moves society to an economic coordination point that can't be controlled by the powers that be.",
+			speaker: "Naval Ravikant",
+			url: "https://x.com/SimplyBitcoinTV/status/1721580708538552674",
+			date: "2023-11-06"
+		},
+		{
+			// 93
+			text: "Bitcoin is a path-dependent, one-time invention; its critical breakthrough is the discovery of absolute scarcity—a monetary property never before (and never again) achievable by mankind.",
+			speaker: "Robert Breedlove",
+			url: "https://x.com/Swan/status/1723049733420097996",
+			date: "2023-11-10"
+		},
+		{
+			// 94
+			text: "Bitcoin is just an honest ledger that's pricing the real market.",
+			speaker: "Jeff Booth",
+			url: "https://www.youtube.com/watch?v=iXIiS_k-Gic",
+			date: "2023-11-22"
+		},
+		{
+			// 95
+			text: "I don’t think humanity has grasped the moral implications of, for the first time ever in human history, having a truly honest way to account for time and energy.",
+			speaker: "Jeff Booth",
+			url: "https://www.youtube.com/watch?v=iXIiS_k-Gic",
+			date: "2023-11-22"
+		},
+		{
+			// 96
+			text: "Who is Satoshi Nakamoto?",
+			speaker: "Michael Saylor",
+			url: "https://x.com/CedYoungelman/status/1735502677969088533",
+			date: "2023-12-14"
+		},
+		{
+			// 97
+			text: "Bitcoin is the human discovery of money. People have been experimenting with barter, beads, commodities, rocks, metals, and government promises for the last 10,000 years and Satoshi solved that problem in 2009.",
+			speaker: "dueyfromstlouis",
+			url: "https://x.com/dueyfromstlouis/status/1749129961922035929",
+			date: "2024-01-21"
+		},
+		{
+			// 98
+			text: "Hodling bitcoin is an extreme version of the marshmallow test that never ends.",
+			speaker: "Jameson Lopp",
+			url: "https://x.com/lopp/status/1578272200204996609",
+			date: "2022-10-07"
+		},
+		{
+			// 99
+			text: "If Bitcoin were [to] become the ultimate form of currency [to be] adopted by human society, I can tell you exactly what's gonna happen as the worst scenario...we're all gonna die. This is not a joke.",
+			speaker: "Chinese State Broadcaster",
+			url: "https://x.com/RussellOkung/status/1398262571199762433",
+			date: "2021-05-28"
+		},
+		{
+			// 100
+			text: "The lesson of Bitcoin is: bitcoin is the best asset, there is no second best asset, buy bitcoin, keep buying bitcoin, don't sell the bitcoin.",
+			speaker: "Michael Saylor",
+			url: "https://x.com/TheBTCTherapist/status/1765420027837055306?s=20",
+			date: "2024-03-06"
+		},
+		{
+			// 101
+			text: "Whoever gets the most bitcoin wins. There is no other end game.”",
+			speaker: "Michael Saylor",
+			url: "https://x.com/Swan/status/1767646389532540945?s=20",
+			date: "2024-03-12"
+		},
+
 		/*{
 			text: "Bitcoin is a technological tour de force.",
 			speaker: "Bill Gates",
